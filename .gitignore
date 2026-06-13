@@ -1,1 +1,11 @@
-
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+**/data/raw/
+**/data/processed/
+**/outputs/models/
+**/.Rproj.user
+**/.Rhistory
+**/*.dta
+**/*.shp
